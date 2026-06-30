@@ -1,0 +1,205 @@
+#: locale=en
+
+## Action
+
+### PDF
+PopupPDFBehaviour_3EC0A015_12F8_E3E1_41A7_6AFC27B4AC76.url = files/Fichas%20T%C3%A9cnicas_en.pdf
+PopupPDFBehaviour_3922809D_12F8_24E1_4194_AC0807B2E7BC.url = files/Fichas%20T%C3%A9cnicas_en.pdf
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+LinkBehaviour_D280A9E6_F1E1_6973_41D1_1277D183F4F8.source = wa.me/528661543908
+LinkBehaviour_D0080933_F1E2_B6D1_41D4_C5442C061196.source = wa.me/528661543908
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_FFB25697_E326_8182_41D2_5CB4B178CDD7.text = 111.96 m
+HotspotPanoramaOverlayTextImage_FF6FE600_E362_807E_41E6_D717FF0F09C0.text = 12.30 m
+HotspotPanoramaOverlayTextImage_FF2380A0_E365_81BE_41E9_23B8C16DA7D4.text = 12.55 m
+HotspotPanoramaOverlayTextImage_FF389E60_E322_80BE_41C3_0394383E5CEF.text = 138.68 m
+HotspotPanoramaOverlayTextImage_FE1C0007_E365_8082_41CF_4F212A360D9A.text = 2,064 m
+HotspotPanoramaOverlayTextImage_FED9FE92_E35D_8182_41C7_0E4FAB1050C3.text = 2.60 m
+HotspotPanoramaOverlayTextImage_F8914063_E367_8082_41E2_26308590F82C.text = 20.55 m
+HotspotPanoramaOverlayTextImage_FE0436EB_E366_8182_41D0_B966DED79DB0.text = 21.65 m
+HotspotPanoramaOverlayTextImage_FD3EBD84_E365_8386_41CF_4F54339DEEB2.text = 25.60 m
+HotspotPanoramaOverlayTextImage_FC8769A3_E362_8382_41D1_35BB9AF46B25.text = 25.90 m
+HotspotPanoramaOverlayTextImage_FE49BB6B_E363_8082_41E9_0061E0123683.text = 3,104 m2
+HotspotPanoramaOverlayTextImage_F8EA7CE8_E327_818E_41D4_A4CC9A6457BB.text = 3,524.28 m
+HotspotPanoramaOverlayTextImage_FE179F3B_E365_8082_41E0_5FE79BA27C4B.text = 3,555.88 m
+HotspotPanoramaOverlayTextImage_F872D08D_E323_8186_41E2_9287E2265FA7.text = 3.98
+HotspotPanoramaOverlayTextImage_FE0D2925_E35E_8086_41E5_E83D990404C8.text = 30.50 m
+HotspotPanoramaOverlayTextImage_FFA0BD8F_E362_8382_41E1_1D279E9AE56B.text = 39.10 m
+HotspotPanoramaOverlayTextImage_F8BD97D8_E362_8F8E_41C7_2B885CAB36B0.text = 39.60 m
+HotspotPanoramaOverlayTextImage_FFFE5B87_E322_8782_41E3_6F81898C3E2F.text = 45.5 m
+HotspotPanoramaOverlayTextImage_FE7727DE_E36D_8F82_41C3_4F4C23946345.text = 489 m
+HotspotPanoramaOverlayTextImage_FFBFE47B_E32D_8082_41D4_32579177EF64.text = 59.92 m
+HotspotPanoramaOverlayTextImage_FF3DE290_E363_819E_41CE_0653ADF5DCA8.text = 60.00 m
+HotspotPanoramaOverlayTextImage_FFB9B81A_E363_8082_41D0_CEB49A965E6D.text = 62.00 m
+HotspotPanoramaOverlayTextImage_FD5C2E80_E36E_807E_41D7_89C1F815DD37.text = 64.48 m
+HotspotPanoramaOverlayTextImage_FF302F09_E363_808E_41D4_1EA11FAA60DB.text = 71.30 m
+HotspotPanoramaOverlayTextImage_FD3A3140_E35D_80FE_41D2_D1FF83E99DB1.text = 846.00 m
+HotspotPanoramaOverlayTextImage_FFD6E487_E366_8182_41EA_D15C2966F787.text = 88.80 m
+HotspotPanoramaOverlayTextImage_FE531575_E36F_8086_41E5_474ED5604E30.text = 9.20 m
+HotspotPanoramaOverlayTextImage_F8AD3796_E35E_8F82_41D6_603F7D48E48A.text = 90.50 m
+HotspotPanoramaOverlayTextImage_FE882729_E35D_808E_41CE_9F8B41457568.text = 97.35 m
+HotspotPanoramaOverlayTextImage_FFB3EB4B_E362_8082_41DD_CC37ED3592E8.text = 97.8 m
+HotspotPanoramaOverlayTextImage_FDB5F9F5_E36D_8386_41EB_E554DDEAD698.text = 98.70 m
+HotspotPanoramaOverlayTextImage_FD675704_E322_8086_41E4_32682D1A7994.text = BLV. HAROL R. PAPE
+HotspotPanoramaOverlayTextImage_F8200DB2_E367_8382_41E7_6E2464A2B404.text = BLV. PAPE
+HotspotPanoramaOverlayTextImage_FFF3962A_E36F_8082_41E3_63E032D4691A.text = BLV. PAPE
+HotspotPanoramaOverlayTextImage_FF51BF74_E365_8086_41E9_A9A9AFB59DA8.text = BLV. PAPE
+HotspotPanoramaOverlayTextImage_F8069E52_E33E_8082_41E0_4C8D79D0E51C.text = BLV. PAPE
+HotspotPanoramaOverlayTextImage_FFDC6EDE_E322_8182_41B7_D5E26A79BBE8.text = BLV. SAN BUENA VENTURA
+HotspotPanoramaOverlayTextImage_F89AAE92_E35F_8182_41D8_F1E7F214D033.text = CALLE CAMPECHE
+HotspotPanoramaOverlayTextImage_FE2D568E_E35E_8182_41D4_7361D8E235DE.text = CALLE COLIMA
+HotspotPanoramaOverlayTextImage_FD541F25_E327_8086_41BF_9639AF59B7D6.text = MAR CARIBE
+HotspotPanoramaOverlayTextImage_FFB0549B_E325_8182_41E0_8C57B0DF52FE.text = MAR CASPIO
+HotspotPanoramaOverlayTextImage_FE9C2CBD_E36E_8186_41D1_17ECBEB04874.text = MAR NEGRO
+HotspotPanoramaOverlayTextImage_FFBEA641_E365_80FE_41E0_8124172A8700.text = MAR NEGRO
+
+## Media
+
+### Audio
+audiores_DD66737E_FB7C_4EDC_41E9_8D0141F91C36.mp3Url = media/audio_DEA2184C_FB7C_7A3C_41E6_5701AF206956_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_C1A43D47_E322_8082_41E3_193AD075DEC8.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_1p0c6jcy_en.webp
+imlevel_C1A5DD31_E322_809E_41E7_9166479C0938.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_38y95dva_en.webp
+imlevel_C7245D17_E322_8082_41E4_D9BD4AB2B799.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_9ihf0aht_en.webp
+imlevel_C1A5AD5C_E322_8086_41D9_7382F6E26452.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_admx8jui_en.webp
+imlevel_C1A3ADAD_E322_8386_41DC_DECCFDAE0951.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_cjc3spxr_en.webp
+imlevel_C1A1ADF0_E322_839E_41E1_4CF567F22E74.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_ecu9zqlp_en.webp
+imlevel_C1A25D70_E322_809E_41C8_0610FAD377FA.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_fugdd9gr_en.webp
+imlevel_C1A1CE31_E322_809E_41EB_23AEA50992C7.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_owzk46v8_en.webp
+imlevel_C1AE7EAE_E322_8182_41B2_4797222FAD39.url = media/panorama_F06C58EE_E326_8182_41BB_2555804DC3D7_HS_rtbyiku4_en.webp
+imlevel_C077D53C_E322_8086_41C4_49AAF61F81DA.url = media/panorama_F06CD642_E326_8082_41E5_2BBB3A8CEBE8_HS_b8bt9lko_en.webp
+imlevel_D1D7FF90_F08E_46A3_41C1_569EBADD6FFF.url = media/panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD_HS_0nncu9bx_en.webp
+imlevel_C182880F_E322_8082_41D5_013EA46F6E5B.url = media/panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD_HS_2hk65rv1_en.webp
+imlevel_C187E7BB_E322_8F82_41E4_8A1934992D38.url = media/panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD_HS_32r6l9qf_en.webp
+imlevel_C7069787_E322_8F82_41E2_1264E7F73AB2.url = media/panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD_HS_9vdp961z_en.webp
+imlevel_C185A7D1_E322_8F9E_41B0_AF86640413D0.url = media/panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD_HS_hxguu05u_en.webp
+imlevel_C18627A5_E322_8F86_41E7_BF5C8B39A3EF.url = media/panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD_HS_p44nkfr7_en.webp
+imlevel_C07F1687_E322_8182_41C6_DEEAB9617EC7.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_0u2bm48p_en.webp
+imlevel_C07E3671_E322_809E_41E0_365AF0C209D3.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_78a9267v_en.webp
+imlevel_C0730627_E322_8082_41D7_F0DCC3F48EF8.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_g4p08nex_en.webp
+imlevel_C0720609_E322_808E_41E0_6008CC6A75C6.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_lr9hwqqf_en.webp
+imlevel_C070B641_E322_80FE_41E0_A93D92D56C65.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_m1b7mcsn_en.webp
+imlevel_C071E65C_E322_8086_41E2_059B4738B1F8.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_rbuqne0y_en.webp
+imlevel_C0733649_E322_808E_41E2_6B500437876E.url = media/panorama_F06EEB67_E326_8082_41E5_3E781D17188F_HS_rpcttpwt_en.webp
+imlevel_C1938AF5_E322_8186_41E7_89069D72D5BD.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_1n34pnuk_en.webp
+imlevel_C1940ACC_E322_8186_41E3_6E0D016DB7EC.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_4qyfbmrg_en.webp
+imlevel_C1921B09_E322_808E_41CA_4B322CDB1C7E.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_58h6k9t6_en.webp
+imlevel_C1961A93_E322_8182_41C0_F3871E832F1C.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_bfkodg9s_en.webp
+imlevel_C1946AD7_E322_8182_41DD_2531B32CA0BF.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_boap69tt_en.webp
+imlevel_ED34A51C_F581_A788_41C8_5193EE4F5426.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_dq7548r5_en.webp
+imlevel_C195FAE3_E322_8182_41D3_29F5B977BC76.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_du81ycum_en.webp
+imlevel_C1930B3A_E322_8082_4184_38EBB2416770.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_g33ct2vm_en.webp
+imlevel_C19E1B6D_E322_8086_41EA_14DDEF2E7FED.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_ghock68j_en.webp
+imlevel_C1917B57_E322_8082_41D2_472DAD24DEFD.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_hqc87i9s_en.webp
+imlevel_C191BB41_E322_80FE_41EC_42AA8FDE1215.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_ijwaswx4_en.webp
+imlevel_C1974AB6_E322_8182_41E9_27FF4B20E557.url = media/panorama_F884A377_E363_8082_41EA_AC18815BAEE0_HS_yxj08rvh_en.webp
+imlevel_C18ED8F7_E322_8182_41EB_EFAE4F8BB6CB.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_09tueqhw_en.webp
+imlevel_C18FC936_E322_8082_41EC_34DA4351DC55.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_2ko45uv9_en.webp
+imlevel_C18A699A_E322_8382_41E1_9FB7DEFB1FA3.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_archn08q_en.webp
+imlevel_C18C0959_E322_808E_41CB_820F8FBE00EB.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_dyawi89z_en.webp
+imlevel_C18F191C_E322_8086_41E5_D400447B07DF.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_ghlem5r5_en.webp
+imlevel_C1816908_E322_808E_41DD_CFC02A4B0043.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_n3hwtc6w_en.webp
+imlevel_C18C5944_E322_8086_41D1_1CBC55CDA9BB.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_ob5ss4mp_en.webp
+imlevel_C18B9A03_E322_8082_41DA_639B2C0B2F13.url = media/panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA_HS_rzhjx02j_en.webp
+imlevel_3B12A1A0_1108_64DF_41B0_0941594EFFB7.url = media/popup_38462972_1118_6423_41A1_82E395D21EE5_en_0_0.webp
+imlevel_3B12B1A0_1108_64DF_41AD_A4968ACB9764.url = media/popup_38462972_1118_6423_41A1_82E395D21EE5_en_0_1.webp
+imlevel_3B1291A0_1108_64DF_4170_ACBACD8DB9B4.url = media/popup_38462972_1118_6423_41A1_82E395D21EE5_en_0_2.webp
+imlevel_3B19303D_1108_6421_41B0_17E2B557313F.url = media/popup_39034DE2_1118_5C23_41AB_AD9944A4A0A2_en_0_0.webp
+imlevel_3B19103D_1108_6421_4183_D3C04C189B99.url = media/popup_39034DE2_1118_5C23_41AB_AD9944A4A0A2_en_0_1.webp
+imlevel_3B19703E_1108_6423_41A7_65BCF994EE6A.url = media/popup_39034DE2_1118_5C23_41AB_AD9944A4A0A2_en_0_2.webp
+imlevel_E5D4D631_FB1C_D664_41ED_88C9E99A60A4.url = media/popup_E04D8373_FB05_CEE4_41E9_C21AFDC4A582_en_0_0.webp
+imlevel_E5D4F631_FB1C_D664_41EC_02DE909459A5.url = media/popup_E04D8373_FB05_CEE4_41E9_C21AFDC4A582_en_0_1.webp
+imlevel_E5D40631_FB1C_D664_41D9_7E247100BC36.url = media/popup_E04D8373_FB05_CEE4_41E9_C21AFDC4A582_en_0_2.webp
+imlevel_E5EAA058_FB1C_CA24_41E7_CC35E4E52C91.url = media/popup_E42F43E9_FB0C_CDE4_41A7_260B0B4B141A_en_0_0.webp
+imlevel_E5EAD058_FB1C_CA24_41EA_37FBD1C16FDF.url = media/popup_E42F43E9_FB0C_CDE4_41A7_260B0B4B141A_en_0_1.webp
+imlevel_E5EAC058_FB1C_CA24_41EA_AE8EACB7DC75.url = media/popup_E42F43E9_FB0C_CDE4_41A7_260B0B4B141A_en_0_2.webp
+imlevel_E5D2B9E7_FB1C_DDEC_41E1_B77707FBAF54.url = media/popup_E56C7043_FB0C_CA24_41C4_5CEB589FDA44_en_0_0.webp
+imlevel_E5D2C9E7_FB1C_DDEC_41E9_AF0D74449148.url = media/popup_E56C7043_FB0C_CA24_41C4_5CEB589FDA44_en_0_1.webp
+imlevel_E5D2E9E7_FB1C_DDEC_41E1_9A61DBA47E77.url = media/popup_E56C7043_FB0C_CA24_41C4_5CEB589FDA44_en_0_2.webp
+imlevel_E5EDCC7C_FB1C_DADC_41D1_EF49A4AC2B13.url = media/popup_E56F56C1_FB0C_7624_41C8_CDAB52B1E3FE_en_0_0.webp
+imlevel_E5EDDC7C_FB1C_DADC_41D7_22323342038F.url = media/popup_E56F56C1_FB0C_7624_41C8_CDAB52B1E3FE_en_0_1.webp
+imlevel_E5ED0C7C_FB1C_DADC_41DE_DBE91DD78D05.url = media/popup_E56F56C1_FB0C_7624_41C8_CDAB52B1E3FE_en_0_2.webp
+imlevel_E5D008B2_FB1C_DA64_41DE_AFA34D12B194.url = media/popup_E66300A5_FB0C_4A6C_41C6_24BFA0CFF460_en_0_0.webp
+imlevel_E5D018B2_FB1C_DA64_41B1_E54CE631BB17.url = media/popup_E66300A5_FB0C_4A6C_41C6_24BFA0CFF460_en_0_1.webp
+imlevel_E5D028B2_FB1C_DA64_4195_443B5FC06D46.url = media/popup_E66300A5_FB0C_4A6C_41C6_24BFA0CFF460_en_0_2.webp
+imlevel_E5D34B34_FB1C_DE6C_41EA_E22DF32A3ECC.url = media/popup_E69FDD52_FB0C_3A24_41C5_596CA0C6AC73_en_0_0.webp
+imlevel_E5D35B34_FB1C_DE6C_41E3_D1FD8B21D471.url = media/popup_E69FDD52_FB0C_3A24_41C5_596CA0C6AC73_en_0_1.webp
+imlevel_E5D36B34_FB1C_DE6C_41C8_011CF8CD3016.url = media/popup_E69FDD52_FB0C_3A24_41C5_596CA0C6AC73_en_0_2.webp
+imlevel_E5E82F04_FB1C_D62C_41C0_D7C7D315572F.url = media/popup_E6E6D76A_FB0C_36E4_41EE_E986D088E77C_en_0_0.webp
+imlevel_E5E83F04_FB1C_D62C_41E4_79C19B74648B.url = media/popup_E6E6D76A_FB0C_36E4_41EE_E986D088E77C_en_0_1.webp
+imlevel_E5E84F04_FB1C_D62C_41B4_6C5F5A2DA917.url = media/popup_E6E6D76A_FB0C_36E4_41EE_E986D088E77C_en_0_2.webp
+imlevel_E5E82F16_FB1C_D62C_41C7_D6D39F5A585F.url = media/popup_E6FEE44F_FB0C_4A3C_41C8_E9BBF5A6BBCD_en_0_0.webp
+imlevel_E5E83F16_FB1C_D62C_41EB_C5C6F475BD71.url = media/popup_E6FEE44F_FB0C_4A3C_41C8_E9BBF5A6BBCD_en_0_1.webp
+imlevel_E5E84F16_FB1C_D62C_41E6_FBB63FB23527.url = media/popup_E6FEE44F_FB0C_4A3C_41C8_E9BBF5A6BBCD_en_0_2.webp
+imlevel_E5D79782_FB1C_D624_41E9_405D0A99BFFA.url = media/popup_E7AEAD07_FB0C_5A2C_41E8_3ABBD1574C02_en_0_0.webp
+imlevel_E5D7A782_FB1C_D624_41A7_CF736A7CF8B1.url = media/popup_E7AEAD07_FB0C_5A2C_41E8_3ABBD1574C02_en_0_1.webp
+imlevel_E5D7B782_FB1C_D624_41E6_5F7EF80B3237.url = media/popup_E7AEAD07_FB0C_5A2C_41E8_3ABBD1574C02_en_0_2.webp
+
+### Popup Image
+
+### Title
+panorama_F06EEB67_E326_8082_41E5_3E781D17188F.label = Alamo parte trasera
+panorama_F884A377_E363_8082_41EA_AC18815BAEE0.label = Cedro
+panorama_F8A10A14_E36D_8086_41CC_AD510C2CE1CA.label = Sabino
+panorama_F06CF4F3_E326_8182_41E4_C449C543A9FD.label = Vista Fresno
+panorama_F06CD642_E326_8082_41E5_2BBB3A8CEBE8.label = Vista General
+panorama_F06C58EE_E326_8182_41BB_2555804DC3D7.label = Vista Palma
+
+## Skin
+
+### Button
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = ALAMO
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = ALAMO
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = CEDRO
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = CEDRO
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = CONTACTO
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = CONTACTO
+Button_EC0693B1_F1E2_F9D1_41AF_DAF125C1E7C1.label = FICHA TÉCNICA
+Button_D5BC51E5_F085_FA6D_41E5_575C69AAB327_mobile.label = FICHAS TÉCNICAS
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = FRESNO
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = FRESNO
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = PALMA
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = PALMA
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = SABINO
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = SABINO
+
+### Image
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.png
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.png
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.png
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.png
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = DOLOR SIT AMET, CONSECTETUR
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = LOREM IPSUM
+
+### Multiline Text
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.2700000000000011vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>LK Proyecto nace con la visión de construir patrimonio y conectar a las personas con espacios que impulsan sus sueños. Más que una inmobiliaria, somos un aliado estratégico que acompaña cada proyecto con profesionalismo, confianza y atención personalizada.</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2099999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +52 866 154 3908</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>alexa.castilloem@gmail.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7199999999999999vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_1F95DE40_022E_7BF1_4170_16BB769D1510.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.370000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">LK Proyecto nace con la visión de construir patrimonio y conectar a las personas con espacios que impulsan sus sueños. Más que una inmobiliaria, somos un aliado estratégico que acompaña cada proyecto con profesionalismo, confianza y atención personalizada.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.37vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.33vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.37vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.33vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.699999999999997vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.7vw;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.719999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.719999999999998vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B><I>DOLOR SIT AME</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.33vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.42vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.33vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>DONEC FEUGIAT:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7800000000000005vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.27vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.33vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.33vw;font-family:'Oswald';"><B><I>LOREM IPSUM:</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.33vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.42vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.919999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LK PROYECT</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.95vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:9.95vmin;font-family:'Oswald';"><B><I>LK PROYECT</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.570000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.57vmin;font-family:'Oswald';"><I>Inmobiliaria </I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>Tlf.: +52 866 154 3908</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.1499999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.15vmin;font-family:'Oswald';"><I>alexa.castilloem@gmail.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>LK PROYECT</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>alexa.castilloem@gmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +52 866 154 3908</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;font-family:'Oswald Regular';"><I>LK PROYECT</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;font-family:'Oswald Regular';"><I>alexa.castilloem@gmail.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;font-family:'Oswald Regular';"><I>Tlf.: +52 866 154 3908</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Renta de Terrenos sobre el Blv. Pape
+
+### Title
+tour.name = Terrenos LK PROYECT

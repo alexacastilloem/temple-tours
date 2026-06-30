@@ -1,0 +1,152 @@
+#: locale=en
+
+## Action
+
+### PDF
+PopupPDFBehaviour_E4E09BCA_CE2B_C809_41CE_ED8F81315AC6.url = files/Terreno%20en%20Venta%20-%20Calle%20Perseo_en.pdf
+
+### URL
+LinkBehaviour_ECC2DC55_CE2B_C81B_41E4_0D286F1700C9.source = https://wa.me/message/J3Q6YOYMZE43H1
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.0178048110683!2d-98.25928298911778!3d19.0189370820996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc77100b3453b%3A0xa12c17f2e2475a2!2sCentro%20de%20Rehabilitaci%C3%B3n%20e%20Inclusi%C3%B3n%20Infantil%20Telet%C3%B3n%20Puebla!5e0!3m2!1sen!2sus!4v1781577449503!5m2!1sen!2sus
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.0178048110683!2d-98.25928298911778!3d19.0189370820996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc77100b3453b%3A0xa12c17f2e2475a2!2sCentro%20de%20Rehabilitaci%C3%B3n%20e%20Inclusi%C3%B3n%20Infantil%20Telet%C3%B3n%20Puebla!5e0!3m2!1sen!2sus!4v1781577449503!5m2!1sen!2sus
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_D39EDDBF_CDFC_C807_41E4_B6D1F10D0279.text = 126.485 m
+HotspotPanoramaOverlayTextImage_D2A0A987_CDF5_C807_41E3_35798D11FDD5.text = 136.485 m
+HotspotPanoramaOverlayTextImage_D33BDAF7_CDD4_C807_41C9_E1045379F4D2.text = 136.485 m
+HotspotPanoramaOverlayTextImage_D2EA4B42_CDDD_C879_419E_4C5DC81E2BAB.text = 136.485 m
+HotspotPanoramaOverlayTextImage_EDDBA741_CDD4_587B_41CF_6EA2D0FEC52E.text = 136.485 m
+HotspotPanoramaOverlayTextImage_D31783DD_CDEC_780B_41E9_237E2F1AE39B.text = 148.264 m
+HotspotPanoramaOverlayTextImage_EDDABBEE_CDDC_C809_41E4_97F13309855A.text = 148.264 m
+HotspotPanoramaOverlayTextImage_D2FA15F2_CDDB_D819_41DD_D845269C6F02.text = 148.264 m
+HotspotPanoramaOverlayTextImage_EC840C03_CDEC_4FFF_41DD_C45A3012ACC8.text = 148.264 m
+HotspotPanoramaOverlayTextImage_D347E908_CDFC_4809_41D6_31CB076F3EBA.text = 148.264 m
+HotspotPanoramaOverlayTextImage_D377543C_CDF4_D809_41DA_CB890C8BEC8C.text = 42.389 m
+HotspotPanoramaOverlayTextImage_EDE88EF7_CDED_C807_41E9_29F10877E4A2.text = 42.389 m
+HotspotPanoramaOverlayTextImage_ED0F98E1_CDD5_C83B_41E2_CD2B767DA7CD.text = 42.389 m
+HotspotPanoramaOverlayTextImage_D287B136_CDDD_F806_41BF_A3212FC69EA5.text = 42.389 m
+HotspotPanoramaOverlayTextImage_D2F990DF_CDF4_D807_41B2_C8E60924FCB2.text = 42.389 m m
+HotspotPanoramaOverlayTextImage_EFF08D0B_CDDC_480F_41E6_1FD49A5CA26B.text = 46.395 m
+HotspotPanoramaOverlayTextImage_D3554BE3_CDEC_483F_41E6_7D3A0466F238.text = 46.395 m
+HotspotPanoramaOverlayTextImage_EC1FA1A2_CDD4_D839_41DE_5E3827864AA0.text = 46.395 m
+HotspotPanoramaOverlayTextImage_D2D0A282_CDFC_D8F9_41C8_A7F7D6728490.text = 46.395 m
+HotspotPanoramaOverlayTextImage_D356E90A_CDF4_4809_41E5_89C1609AA23A.text = 46.395 m
+HotspotPanoramaOverlayTextImage_D3327557_CDDC_7807_41E6_E3097BCE1F50.text = 5,891.02 m
+HotspotPanoramaOverlayTextImage_D3156918_CDD5_C809_41E0_3BB3A4CFFA18.text = 5,891.02 m
+HotspotPanoramaOverlayTextImage_D2DAF279_CDDC_D80B_41C4_DDE3F9979BA8.text = 5,891.02 m
+HotspotPanoramaOverlayTextImage_D37B062E_CDFC_7809_41E2_6726A7D48263.text = 5,891.02 m
+HotspotPanoramaOverlayTextImage_D322878E_CDED_D809_41E0_92AB0093F423.text = 5,891.02 m
+HotspotPanoramaOverlayTextImage_D21F0C22_CDF4_C839_41D9_FB33B64B31D3.text = AV. CASIOPEA
+HotspotPanoramaOverlayTextImage_D3AD24D8_CDF5_D80A_41C6_D722F49282D9.text = AV. PERSEO
+
+## Media
+
+### Audio
+audiores_E474DD88_CEEC_C809_41D5_12355233B828.mp3Url = media/audio_E5CD6749_CEEC_F80B_41E0_A5689CBFC074_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_EBD7F143_CE34_587F_41C9_08D8CF2B74E1.url = media/panorama_D87C79E1_CDD5_C83B_41D9_87A7ED3E582F_HS_c6c4pn5q_en.webp
+imlevel_EBD70156_CE34_5819_41E1_580639D24B09.url = media/panorama_D87C79E1_CDD5_C83B_41D9_87A7ED3E582F_HS_pxvwxkk3_en.webp
+imlevel_EBF2A088_CE34_5809_41E5_4C05633DE19E.url = media/panorama_D87C79E1_CDD5_C83B_41D9_87A7ED3E582F_HS_tklbfvj9_en.webp
+imlevel_EBF5307B_CE34_580F_41E4_71D084490F3C.url = media/panorama_D87C79E1_CDD5_C83B_41D9_87A7ED3E582F_HS_vlc4w4dg_en.webp
+imlevel_EBF4206A_CE34_5809_41E1_66CECFCC55F0.url = media/panorama_D87C79E1_CDD5_C83B_41D9_87A7ED3E582F_HS_vvyaiws7_en.webp
+imlevel_E864E36D_CE34_580B_41E2_CD77F0183A9B.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_6ge03f1k_en.webp
+imlevel_E8664332_CE34_5819_41E7_110C1A25B0B2.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_flgwwcj1_en.webp
+imlevel_E9D9030C_CE34_5809_41D3_E26716964005.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_g0xy85ju_en.webp
+imlevel_E867B356_CE34_5819_41D1_04D1349C70C1.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_h06obz94_en.webp
+imlevel_E86253ED_CE34_580B_41E5_CD82FF54A743.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_wr0bnpjt_en.webp
+imlevel_E863B403_CE34_5FFF_41E6_FDB45FAE3BDA.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_xq3zoveb_en.webp
+imlevel_E860D41D_CE34_580B_41E2_4FCCD4ED905D.url = media/panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF_HS_zg8b2ll1_en.webp
+imlevel_E872F6A4_CE34_5839_41E8_F6245A66D010.url = media/panorama_DF14BDF5_CDD4_481B_41E1_DE01AF9C0109_HS_hrguiluf_en.webp
+imlevel_E877F629_CE34_580B_41C0_4E5FB4FF5402.url = media/panorama_DF14BDF5_CDD4_481B_41E1_DE01AF9C0109_HS_i3t7yxr1_en.webp
+imlevel_F7E74037_D31F_8541_41B8_A30693CC609D.url = media/panorama_DF14BDF5_CDD4_481B_41E1_DE01AF9C0109_HS_ietjt1lu_en.webp
+imlevel_E874367D_CE34_580B_41D5_B314C175C811.url = media/panorama_DF14BDF5_CDD4_481B_41E1_DE01AF9C0109_HS_umpommvh_en.webp
+imlevel_E875A68F_CE34_5807_41CC_0390A22DDE0C.url = media/panorama_DF14BDF5_CDD4_481B_41E1_DE01AF9C0109_HS_z65emfn2_en.webp
+imlevel_E868A5C0_CE34_5879_41D6_9448EA808878.url = media/panorama_DF164526_CDD4_5839_41D8_B8270D595D4B_HS_10yy1wy3_en.webp
+imlevel_E86985D3_CE34_581F_41E1_BB73F73689A4.url = media/panorama_DF164526_CDD4_5839_41D8_B8270D595D4B_HS_8ije3u48_en.webp
+imlevel_E86B25AD_CE34_580B_41C0_2744DA64717D.url = media/panorama_DF164526_CDD4_5839_41D8_B8270D595D4B_HS_9g3bjtpp_en.webp
+imlevel_E86AA55C_CE34_5809_41E5_1F5C1CB89D35.url = media/panorama_DF164526_CDD4_5839_41D8_B8270D595D4B_HS_ntwgom2r_en.webp
+imlevel_E86905E5_CE34_583B_41E1_EA6BA4496261.url = media/panorama_DF164526_CDD4_5839_41D8_B8270D595D4B_HS_uht6kp41_en.webp
+imlevel_E86FE4A3_CE34_583F_41E9_3696355FF015.url = media/panorama_DF179C6D_CDD4_480B_41BE_0FF21773151B_HS_5yrjzxg0_en.webp
+imlevel_E8612479_CE34_580B_41D5_4AA0371A5BB1.url = media/panorama_DF179C6D_CDD4_480B_41BE_0FF21773151B_HS_b0iif6nf_en.webp
+imlevel_E86E648D_CE34_580B_41D9_3F9C74C005FA.url = media/panorama_DF179C6D_CDD4_480B_41BE_0FF21773151B_HS_bakuaers_en.webp
+imlevel_E86F14BB_CE34_580F_41E3_1676E36199A8.url = media/panorama_DF179C6D_CDD4_480B_41BE_0FF21773151B_HS_oex0udq0_en.webp
+imlevel_E86CB4D2_CE34_5819_41BA_B582DF8860E3.url = media/panorama_DF179C6D_CDD4_480B_41BE_0FF21773151B_HS_y8vgrtlm_en.webp
+
+### Title
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_0.label = DJI_0285
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_1.label = DJI_0286
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_2.label = DJI_0287
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_3.label = DJI_0293
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_4.label = DJI_0298
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_5.label = DJI_0299
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_6.label = DJI_0300
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_7.label = DJI_0301
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666_8.label = DJI_0303
+album_EF9F3BDF_CE74_C807_41E4_2BA68345A666.label = Photo Album DJI_0285
+panorama_DF1003C1_CDD5_B87B_4191_02E27FEF7BAF.label = Vista Central
+panorama_DF14BDF5_CDD4_481B_41E1_DE01AF9C0109.label = Vista Este
+panorama_DF179C6D_CDD4_480B_41BE_0FF21773151B.label = Vista Norte
+panorama_DF164526_CDD4_5839_41D8_B8270D595D4B.label = Vista Oeste
+panorama_D87C79E1_CDD5_C83B_41D9_87A7ED3E582F.label = Vista Sur
+
+## Skin
+
+### Button
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = CONTACTO
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FICHA
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = FOTOS
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOUSE INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFORMACIÓN
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = Información
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = REALTOR
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = UBICACIÓN
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_en.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_en.png
+Image_EE05F7E5_CE6C_D83B_41D8_755D095B9612.url = skin/Image_EE05F7E5_CE6C_D83B_41D8_755D095B9612_en.png
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = LOREM IPSUM
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = LOREM IPSUM
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = dolor sit amet, consectetur 
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = dolor sit amet, consectetur 
+
+### Multiline Text
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.33vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.139999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.139999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.139999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.139999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vh;font-family:'Bebas Neue Bold';">real estate agent</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.93vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">john doe</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999993vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">licensed real estate salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.19vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.390000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5299999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.390000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.390000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">SI ESPINOSA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.23vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">Servicios inmobiliarios </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">TEL.: +52 222 524 8133</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">INFO@siespinosa.mx</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">https://www.siespinosa.mx</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.050000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.666666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.67vmin;font-family:'Bebas Neue Bold';">Av. Perseo 5321, Reserva Territorial Atlixcáyotl</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.730000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.73vmin;font-family:'Bebas Neue Bold';">Terreno EN VENTA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.555555555555557vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.56vmin;font-family:'Bebas Neue Bold';">Av. Perseo 5321, Reserva Territorial Atlixcáyotl</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.04vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.833333333333334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Bebas Neue Bold';"><B>5,891 m² de oportunidad para desarrollo residencial en una de las zonas con mayor plusvalía de Puebla.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.833333333333334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Bebas Neue Bold';"><B>5,891.02 m² | Uso de suelo habitacional | $75,000,000 MXN</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Terreno habitacional de 5,891.02 m² en Reserva Territorial Atlixcáyotl, Puebla. Ubicación estratégica dentro de la zona Angelópolis
+
+### Title
+tour.name = Terreno en Venta

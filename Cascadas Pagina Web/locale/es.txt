@@ -1,0 +1,139 @@
+#: locale=es
+
+## Action
+
+### PDF
+PopupPDFBehaviour_DC6DD4CC_CF28_3977_41DA_38D6CB1B644D.url = files/F-TEC%20Plaza%20Paseo%20Cascadas%203_es.pdf
+PopupPDFBehaviour_DC082D6E_CF28_6B33_41E2_EA50DF9624D4.url = files/F-TEC%20Plaza%20Paseo%20Cascadas%203_es.pdf
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_2C5F232B_38C8_D5F8_41BB_5BFD8AD09E2D.text = 10.90m
+HotspotPanoramaOverlayTextImage_2A2C7F54_38D8_4DA8_41C5_76997E9E955D.text = 4.55m
+HotspotPanoramaOverlayTextImage_2DD91FF4_38D7_CC68_41BB_EF675C13D94A.text = 5.4m
+HotspotPanoramaOverlayTextImage_AF863DA4_BFED_D50F_41E5_09C36DEFC949.text = Acceso y salida Lomas III
+HotspotPanoramaOverlayTextImage_E27B1CB7_F18F_9426_41EA_9E9ED730C7A0.text = L 15
+HotspotPanoramaOverlayTextImage_E34F385B_F184_FC61_41B8_CC41D42CBC3E.text = L 15
+HotspotPanoramaOverlayTextImage_D5739495_C05E_2B09_41BC_8CE966AB25F3.text = L 15
+HotspotPanoramaOverlayTextImage_E22AACFD_F184_F42A_41AF_5B80D58A2950.text = L 15
+HotspotPanoramaOverlayTextImage_E2AEE165_F18C_8C5A_41ED_698ECD5BCCB5.text = L 18 Y 19
+HotspotPanoramaOverlayTextImage_AEA4C3CF_BFE6_ED19_41D4_04ACBD77FB4E.text = Lomas de Angelópolis
+HotspotPanoramaOverlayTextImage_DE6C15EA_CEF8_7B33_41E6_5E468B486885.text = Reservado
+HotspotPanoramaOverlayTextImage_E207EF7A_F184_942E_41EC_0FCC64296CDD.text = Reservado
+HotspotPanoramaOverlayTextImage_DB7CB8D1_CF68_2911_41E8_7314C6E1BE24.text = Reservado
+HotspotPanoramaOverlayTextImage_E2967740_F1FC_B45A_41E7_B7304B3DFE74.text = Reservado
+HotspotPanoramaOverlayTextImage_DFF729E3_CEFB_EB31_41E0_48A65DF335B5.text = Reservado
+HotspotPanoramaOverlayTextImage_E381641D_F184_8BEA_41DD_A436D4420D11.text = Reservado
+HotspotPanoramaOverlayTextImage_DB3C7685_CF78_39F1_41E5_AFCD135B589D.text = Reservado
+HotspotPanoramaOverlayTextImage_DB49B548_CF78_3B7F_41E4_02DA9AFE5545.text = Reservado
+HotspotPanoramaOverlayTextImage_E2E9DC10_F184_9BFA_41D0_97E2F6B0568E.text = Reservado
+HotspotPanoramaOverlayTextImage_DBE86239_CF68_7911_417B_EB613C51BAF6.text = Reservados
+HotspotPanoramaOverlayTextImage_AF176AB9_BFE2_3F79_41E6_5788294A327C.text = Sonata
+
+## Media
+
+### Audio
+audiores_1F911973_0B72_AF38_419D_8A7035A3C9AC.mp3Url = media/audio_1951A7E0_0B52_A358_4175_EA51562712D0_es.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_2623DA40_158E_ECD6_41A5_3760DE2C3BF1.url = media/panorama_2A4634FF_38D9_DC58_41B8_465BC9FBF92F_HS_6bwlgrbh_es.webp
+imlevel_2622FA75_158E_ECBE_419D_0B9950894499.url = media/panorama_2A4634FF_38D9_DC58_41B8_465BC9FBF92F_HS_r1xg7ojh_es.webp
+imlevel_21F4C5F5_158E_E7BE_41A8_0A855B65C479.url = media/panorama_2A4634FF_38D9_DC58_41B8_465BC9FBF92F_HS_vxwgrxyw_es.webp
+imlevel_2618F46D_158E_E4AE_418F_5DAFDADA7BD2.url = media/panorama_AD40621A_BF0F_1E78_41C8_BA7348F191F8_HS_h2g17jk5_es.webp
+imlevel_26069429_158E_E456_41B4_EB9C81144257.url = media/panorama_AD40621A_BF0F_1E78_41C8_BA7348F191F8_HS_u77mlvcx_es.webp
+imlevel_2619B44B_158E_E4EA_4185_8153DB9EC1E5.url = media/panorama_AD40621A_BF0F_1E78_41C8_BA7348F191F8_HS_vdtp65td_es.webp
+imlevel_260AD1BC_158E_DFAE_4185_70BFF9B1EDE0.url = media/panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C_HS_32x9hzo2_es.webp
+imlevel_260A31E2_158E_DFDA_4186_03193313C216.url = media/panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C_HS_4kqz3866_es.webp
+imlevel_260C4226_158E_DC5A_41A9_DAD1906EF37B.url = media/panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C_HS_d15wkfy9_es.webp
+imlevel_26727F1B_158E_A46A_41B0_9F35D2E5BA06.url = media/panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C_HS_ehz70y3c_es.webp
+imlevel_2671DDF0_158E_A7B6_41B4_CBEEB6AF6326.url = media/panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C_HS_muapd6bs_es.webp
+imlevel_2671EE35_158E_A4BE_41B3_7196BCB88809.url = media/panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C_HS_sv5r8e1t_es.webp
+imlevel_26033391_158E_DC76_41A6_FB4254DE2A8E.url = media/panorama_B4BB4B17_BF0B_2E49_41DB_87ED032CCB48_HS_6e2cucwi_es.webp
+imlevel_260413E9_158E_E3D6_419D_33E7F957B464.url = media/panorama_B4BB4B17_BF0B_2E49_41DB_87ED032CCB48_HS_6ujvn1d1_es.webp
+imlevel_260FF23D_158E_DCAE_4193_811C88E2641A.url = media/panorama_B4BB4B17_BF0B_2E49_41DB_87ED032CCB48_HS_9kv63kjl_es.webp
+imlevel_2607A403_158E_E45A_416E_5CA56E98464C.url = media/panorama_B4BB4B17_BF0B_2E49_41DB_87ED032CCB48_HS_kb911vs6_es.webp
+imlevel_2613B6F4_158E_E5BE_4188_68766ACCD084.url = media/panorama_FC1E141F_F17F_8BE6_41E4_076315DACE27_HS_abwa2rxt_es.webp
+imlevel_262D997C_158E_ECAE_41AE_2A5ED8C6DA98.url = media/panorama_FF5753D3_F17C_8C7E_41EB_FEEB558FA79F_HS_35es5gxe_es.webp
+imlevel_262FB9C4_158E_EFDE_41B0_352AAAEC5F74.url = media/panorama_FF5753D3_F17C_8C7E_41EB_FEEB558FA79F_HS_73ux37iv_es.webp
+imlevel_2621AA07_158E_EC5A_4195_60D6BE33E1EC.url = media/panorama_FF5753D3_F17C_8C7E_41EB_FEEB558FA79F_HS_hxfgt4zc_es.webp
+imlevel_262F99AA_158E_EFAA_41AE_151809868CED.url = media/panorama_FF5753D3_F17C_8C7E_41EB_FEEB558FA79F_HS_pv2pebw5_es.webp
+imlevel_262D9958_158E_ECF6_41B1_44AC2277F98A.url = media/popup_1A1CAD6C_0B57_E728_419C_9DC5FC618E36_es_0_0.webp
+imlevel_262B8958_158E_ECF6_41B1_7642A2339791.url = media/popup_1A1CAD6C_0B57_E728_419C_9DC5FC618E36_es_0_1.webp
+imlevel_262B9958_158E_ECF6_41AF_8B62BBFE129E.url = media/popup_1A1CAD6C_0B57_E728_419C_9DC5FC618E36_es_0_2.webp
+imlevel_262AE947_158E_ECDA_41B2_72A55563A5A7.url = media/popup_1A75E6A1_0B57_65D8_419C_94615C5320D0_es_0_0.webp
+imlevel_262AF947_158E_ECDA_41B3_EBFA09B001CB.url = media/popup_1A75E6A1_0B57_65D8_419C_94615C5320D0_es_0_1.webp
+imlevel_262A8947_158E_ECDA_41B0_73344C6DE9DC.url = media/popup_1A75E6A1_0B57_65D8_419C_94615C5320D0_es_0_2.webp
+imlevel_260D5203_158E_DC5A_41B3_0BBAE2CC0625.url = media/popup_1A7EA3C2_0B5D_6358_419F_08E7671F818F_es_0_0.webp
+imlevel_260A5203_158E_DC5A_41A2_597BBE5DDFCD.url = media/popup_1A7EA3C2_0B5D_6358_419F_08E7671F818F_es_0_1.webp
+imlevel_260A7203_158E_DC5A_4196_3D672E845FA4.url = media/popup_1A7EA3C2_0B5D_6358_419F_08E7671F818F_es_0_2.webp
+imlevel_261056C8_158E_E5D6_41B5_1693D89FCE4A.url = media/popup_1B962FAE_0B52_A328_4196_E8963BAE7EA5_es_0_0.webp
+imlevel_261166C8_158E_E5D6_41A8_DD771B1847F8.url = media/popup_1B962FAE_0B52_A328_4196_E8963BAE7EA5_es_0_1.webp
+imlevel_261176C8_158E_E5D6_41A0_9E3E46E0A828.url = media/popup_1B962FAE_0B52_A328_4196_E8963BAE7EA5_es_0_2.webp
+imlevel_2605D3B0_158E_E3B6_4185_7D2EC235F299.url = media/popup_1BA23F8A_0B5D_A3E8_419C_4CECD77C6179_es_0_0.webp
+imlevel_2602D3B0_158E_E3B6_4179_67F9B2C0AFF8.url = media/popup_1BA23F8A_0B5D_A3E8_419C_4CECD77C6179_es_0_1.webp
+imlevel_2602E3B0_158E_E3B6_419F_3C99331ECCC8.url = media/popup_1BA23F8A_0B5D_A3E8_419C_4CECD77C6179_es_0_2.webp
+imlevel_261326E3_158E_E5DA_41AC_3909BCAA6870.url = media/popup_1BA2763D_0B53_6528_41A0_777794294946_es_0_0.webp
+imlevel_261336E3_158E_E5DA_41B5_0253A4B845DB.url = media/popup_1BA2763D_0B53_6528_41A0_777794294946_es_0_1.webp
+imlevel_2612C6E3_158E_E5DA_41B0_43283EFBF30F.url = media/popup_1BA2763D_0B53_6528_41A0_777794294946_es_0_2.webp
+imlevel_260CA1F6_158E_DFBA_41A8_16CDC26D28BB.url = media/popup_1BAEBC25_0B52_A4D8_4176_99189C85A8C8_es_0_0.webp
+imlevel_260CB1F6_158E_DFBA_41B0_EA460BE6A531.url = media/popup_1BAEBC25_0B52_A4D8_4176_99189C85A8C8_es_0_1.webp
+imlevel_260C41F6_158E_DFBA_41B2_532DE0FEDAB0.url = media/popup_1BAEBC25_0B52_A4D8_4176_99189C85A8C8_es_0_2.webp
+imlevel_24F607D9_158E_E3F6_4197_363F3F4745FB.url = media/popup_DADB0C8B_CF7B_E9F1_41CF_178A14E21ADC_es_0_0.webp
+imlevel_24F707D9_158E_E3F6_4161_F0D37AAB4EE2.url = media/popup_DADB0C8B_CF7B_E9F1_41CF_178A14E21ADC_es_0_1.webp
+imlevel_24F737D9_158E_E3F6_41B5_91C2E95CFD7B.url = media/popup_DADB0C8B_CF7B_E9F1_41CF_178A14E21ADC_es_0_2.webp
+
+### Popup Image
+
+### Title
+panorama_2A4634FF_38D9_DC58_41B8_465BC9FBF92F.label = 1-Local individual
+panorama_B4B85FF1_BF0B_E5C9_41CF_6A0BB992915F.label = 4-lado derecho
+panorama_B4B9EBB2_BF0B_2E4B_4194_B4110505A90C.label = 6-Frente con montañas
+panorama_B4BB4B17_BF0B_2E49_41DB_87ED032CCB48.label = 8-Frente muy cercano (no se ve toda la fachada)
+panorama_FC1E141F_F17F_8BE6_41E4_076315DACE27.label = frente a la canasta lista
+panorama_AD40621A_BF0F_1E78_41C8_BA7348F191F8.label = lado izquierdo, correguido
+panorama_FF5753D3_F17C_8C7E_41EB_FEEB558FA79F.label = plaza 01_pano lista
+
+## Skin
+
+### Button
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Contact Information
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = DESCARGAR
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = DESCARGAR
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = FICHA TÉCNICA
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = FICHA TÉCNICA
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = LOCAL 15
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = LOCAL 15
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = LOCAL 18 Y 19
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = LOCAL 18 Y 19
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = VISTA PRINCIPAL
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = VISTA PRINCIPAL
+
+### Image
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_es.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_es.jpg
+Image_C15C1D26_D44A_8BF4_41A7_BFF15CCFDFDC.url = skin/Image_C15C1D26_D44A_8BF4_41A7_BFF15CCFDFDC_es.png
+Image_C1A71936_D44E_8BD4_41D9_87BE52C42A19.url = skin/Image_C1A71936_D44E_8BD4_41D9_87BE52C42A19_es.png
+Image_DE895B9A_CE94_E913_41E6_E648E374A32D.url = skin/Image_DE895B9A_CE94_E913_41E6_E648E374A32D_es.png
+Image_DF9FBA41_CEB5_EB71_41E5_652599DBE41E.url = skin/Image_DF9FBA41_CEB5_EB71_41E5_652599DBE41E_es.png
+
+### Multiline Text
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.2699999999999996vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2699999999999996vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2099999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2099999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7200000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.siespinosa.mx</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tel. +52225248133</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@siespinosa.mx</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Oswald Regular';"><I>www.siespinosa.mx</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Oswald Regular';"><I>Tel. +52225248133</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;font-family:'Oswald Regular';"><I>info@siespinosa.mx</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = La plaza se encuentra sobre vía principal de acceso y salida Lomas de Angelópolis III y zona Azul.
+
+### Title
+tour.name = Plaza Paseo Cascadas
